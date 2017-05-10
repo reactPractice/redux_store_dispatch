@@ -1,0 +1,25 @@
+{
+  "name": "redux-example",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.15.3",
+    "lodash": "^4.17.4",
+    "react": "^15.4.2",
+    "react-addons-update": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "redux-logger": "^2.8.2",
+    "redux-thunk": "^2.2.0",
+    "superagent": "^3.5.0",
+    "whatwg-fetch": "^2.0.3"
+  },
+  "devDependencies": {
+    "react-scripts": "0.9.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
